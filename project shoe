@@ -5,14 +5,11 @@
  <title>Anime Stream!</title>
 </head>
 <body>
-
  <h1>Welcome to Anime Central!</h1>
-
  <video width="640" height="360" controls>
-  <source src="https://www.crunchyroll.com/watch/G0DUNJ2JP/hidden-inventory" type="video/mp4">
+  <source src="https://www.crunchyroll.com/watch/G0DUNJ2JP/hidden-inventory" type="video/x-matroska">
   Your browser does not support the video tag.
  </video>
-
 </body>
 </html>
 ```
